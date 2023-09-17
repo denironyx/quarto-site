@@ -55,4 +55,4 @@ jobs:
           access-type: logged_in
           dir: |
             .:/github-actions
-          force: true
+          force: false
