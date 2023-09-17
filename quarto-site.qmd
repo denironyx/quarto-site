@@ -1,0 +1,11 @@
+---
+title: "Quarto Site 01"
+---
+
+## Quarto
+
+This is my first Quarto website. Eager to understand what can be done with it. <https://quarto.org>.
+
+```{r}
+1 + 1
+```
